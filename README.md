@@ -2,7 +2,9 @@
 
 
 
-Instituto Federal de Santa Catarina - *Campus* Florianópolis Departamento Acadêmico de Eletrônica Curso de Engenharia Eletrônica Aluno
+Instituto Federal de Santa Catarina - *Campus* Florianópolis Departamento Acadêmico de Eletrônica Curso de Engenharia Eletrônica 
+
+Aluno:
 
 - Kevin Jahn Ferreira - engkevinn@gmail.com
 
@@ -15,21 +17,21 @@ Professores:
 
 
 
-De acordo com o Departamento de Saúde dos Estados Unidos, material particulado fino 2.5 (PM 2.5) é um poluente do ar que afeta a saúde das pessoas quando os níveis estão altos. PM2.5 são pequenas partículas no ar que reduzem a visibilidade e fazem com que o ar pareça nebuloso quando os níveis são elevados. Segundo o Departamento de Saúde de Nova York, os níveis externos de PM 2.5 são elevados em dias com pouca ou nenhuma mistura de vento ou ar. Em algumas cidades pelo mundo um aviso é emitido a população quando os níveis da partícula estão elevados para uso de mascara ou evitar longas saídas as ruas.
+De acordo com o Departamento de Saúde dos Estados Unidos, o material particulado fino 2.5 (PM 2.5) é um poluente do ar que afeta a saúde das pessoas quando os níveis estão altos. PM2.5 são pequenas partículas no ar que reduzem a visibilidade e fazem com que o ar pareça nebuloso quando os níveis são elevados. Segundo o Departamento de Saúde de Nova York, os níveis externos de PM 2.5 são elevados em dias com pouca ou nenhuma mistura de vento ou ar. Em algumas cidades pelo mundo um aviso é emitido à população quando os níveis da partícula estão elevados para uso de máscara ou evitar longas saídas às ruas.
 
 O termo de partícula fina ou material particulado 2.5 se dá devido ao fato de elas possuírem tamanho igual ou inferior a 2,5 micrometros de tamanho. O tamanho de uma partícula PM 2.5 é 30 vezes menor que um fio de cabelo humano. Desta maneira, devido ao seu pequeno tamanho elas são capazes de adentrar profundamente no nosso corpo, alcançando o pulmão. Além das diversas doenças respiratórias, a exposição prolongada a essa partícula pode causar doenças no coração. Alguns outros estudos estão sendo feitos relacionando PM 2.5 a demência e obesidade.
 
-Este material particulado fino é produzido de diversas fontes, como carros, caminhões, industrias, cozinhas, cigarros, entre outros. Nos Estados Unidos, a Agencia de Proteção Ambiental estabeleceu padrões para qualidade do ar em 1997, sendo atualizado em 2012. Foi estabelecido que até 35 microgramas por metro cubico de PM 2.5 num dia seria considerado saudável e apenas 12 ug/m^3 na média anual.
+Este material particulado fino é produzido a partir de diversas fontes, como carros, caminhões, indústrias, cozinhas, cigarros, entre outros. Nos Estados Unidos, a Agência de Proteção Ambiental estabeleceu padrões para qualidade do ar em 1997, sendo atualizado em 2012. Foi estabelecido que até 35 microgramas por metro cúbico de PM 2.5 num dia seria considerado saudável, e apenas 12 ug/m^3 na média anual.
 
-No Brasil, em algumas cidades já esta sendo monitorado o nível de PM 2.5, porem o valor é convertido para AQL, diferenciando-se de outros medidores ao redor do mundo. A medição pode ser acompanhada neste site: http://aqicn.org/map/brazil/ . Pode se observar na imagem abaixo que a maior concentração esta em grandes cidades. Neste site, é possível visualizar os medidores pelo mundo: http://berkeleyearth.org/air-quality-real-time-map/ .
+No Brasil, em algumas cidades já está sendo monitorado o nível de PM 2.5, porem o valor é convertido para AQL, diferenciando-se de outros medidores ao redor do mundo. A medição pode ser acompanhada nesse site: http://aqicn.org/map/brazil/ . Pode-se observar na imagem abaixo que a maior concentração está em grandes cidades. Nesse site, é possível visualizar os medidores pelo mundo: http://berkeleyearth.org/air-quality-real-time-map/ .
 
-![](C:\Users\User\Desktop\Engenharia\semestre 2019 2\PI 3\PI3\1575762132530.png)
+![1575762132530](C:\Users\User\Desktop\Engenharia\semestre 2019 2\PI 3\PI3\1575762132530.png)
 
 **Figura 1**
 
 Neste projeto foi utilizado a tabela abaixo para categorizar a qualidade do ar em bom ou danoso.
 
-![](C:\Users\User\Desktop\Engenharia\semestre 2019 2\PI 3\PI3\1571920268445.png)
+![1571920268445](C:\Users\User\Desktop\Engenharia\semestre 2019 2\PI 3\PI3\1571920268445.png)
 
 ​									**Figura 2**
 
@@ -61,23 +63,23 @@ Este projeto visa desenvolver uma unidade medidora de material particulado fino 
 
 1. Concepção
    * Considerar as tecnologias a utilizar;
-   * Desenvolver os conceitos de PM 2.5, técnicas para validação, estudo do sensor;
+   * Desenvolver os conceitos de PM 2.5, técnicas para validação, estudo do sensor.
 
 2. Design
    * Case do produto;
-   * Lógica do algoritmo;
+   * Lógica do algoritmo.
 
 3. Implementação
    * Realização do produto;
    * Escrita do código;
    * Testes;
-   * Validações;
+   * Validações.
 
 4. Operação
 
    * Agrupar as partes;
 
-   * Manutenção;
+   * Manutenção.
 
      
 
@@ -85,11 +87,11 @@ Este projeto visa desenvolver uma unidade medidora de material particulado fino 
 
 
 
-Neste momento, foi levantado os sensores que poderiam ser utilizados, considerando o orçamento do projeto. Além do microcontrolador e linguagem de programação. Nesta etapa, também foi pensado em formas de validar o sensor.
+Nesse momento, foram levantados os sensores que poderiam ser utilizados considerando o orçamento do projeto, além de serem analisados o microcontrolador e linguagem de programação adequados. Nesta etapa, também foi pensado em formas de validar o sensor.
 
-Inicialmente o sensor pretendido a ser utilizado era o DSM501A, por ser o sensor mais facilmente encontrado a venda no Brasil. Este sensor faz a medição da poeira no ar, retornando em seus pinos de saída pulsos de PWM. Através do tempo que os pulsos ficam em nível lógico baixo e alto, é possível dimensionar a quantidade da partícula no ar. 
+Inicialmente pretendia-se utilizar o sensor DSM501A, por ser o mais facilmente encontrado à venda no Brasil. Esse sensor faz a medição da poeira no ar, retornando em seus pinos de saída pulsos de PWM. Através do tempo que os pulsos ficam em nível lógico baixo e alto, é possível dimensionar a quantidade da partícula no ar. 
 
-Porem, devido a uma pesquisa realizada em Beijing entre diferentes tipos de sensores de medição de PM 2.5, foi decidido utilizar o PPD42NS da Shinyei.  A pesquisa visava comparar sensores de baixo custo vs alto custo, e o resultado obtido foi que os sensores Shinyei possuem excelente desempenho, muito superiores ao DSM501A.
+Porém, devido a uma pesquisa realizada em Beijing entre diferentes tipos de sensores de medição de PM 2.5, foi decidido utilizar o PPD42NS da Shinyei.  A pesquisa visava comparar sensores de baixo custo vs alto custo, e o resultado obtido foi que os sensores Shinyei possuem excelente desempenho, muito superiores ao DSM501A.
 
 O microcontrolador escolhido para o projeto foi o STM32F103T8, possui Cortex M3 e 20kb de RAM, suporta 5V em seus pinos GPIOS, necessários para o sensor e possui saída de alimentação de 5V. Para testes iniciais, foi utilizado um ESP8266. O fabricante do sensor disponibiliza um código em Arduino para testes do Sensor. 
 
@@ -131,11 +133,11 @@ void loop() {
 
 Este código retorna uma saída em pcs/0.01cf, porém a unidade mais utilizada para o PM 2.5 é ug/m^3. A conversão pode ser feita multiplicando o valor de saída por 0.0283168.
 
-Em resumo, o sensor funciona emitindo pulsos de nível lógico baixo em um pino de saída. Através desses pulsos, é contabilizado o tempo que a saída permanece em nível lógico baixo. Em seguida, após um intervalo de tempo é realizado alguns cálculos para obtenção do resultado final. 
+Em resumo, o sensor funciona emitindo pulsos de nível lógico baixo em um pino de saída. Através desses pulsos, é contabilizado o tempo que a saída permanece em nível lógico baixo. Em seguida, após um intervalo de tempo são realizados alguns cálculos para obtenção do resultado final. 
 
 Após algumas pesquisas e testes, foi observado que quanto maior o tempo da amostra, mais preciso é o resultado. Vale registrar que o sensor leva aproximadamente 3 minutos para aquecer e começar a dar resultados coerentes. 
 
-Algumas ações podem ser feitas para melhorar a precisão do sensor, como vedar uma das entradas de ar do sensor, deixando apenas duas saídas descobertas. Em algumas referencias é sugerido adicionar um resistor de 10k, caso a saída esteja muito sensível, no pino 5 (threshold) ao GND. Este resistor é adicionado para reduzir a tensão pela metade no threshold.  O sensor deve ser deixado na vertical.
+Algumas ações podem ser feitas para melhorar a precisão do sensor, como vedar uma das entradas de ar do sensor, deixando apenas duas saídas descobertas. Em algumas referências é sugerido adicionar um resistor de 10k, caso a saída esteja muito sensível, no pino 5 (threshold) ao GND. Este resistor é adicionado para reduzir a tensão pela metade no threshold.  O sensor deve ser deixado na vertical.
 
 O local da fita a ser colocada para vedar o buraco e melhorar a precisão pode ser observado abaixo:
 
@@ -161,7 +163,7 @@ O circuito elétrico do sensor pode ser observado na próxima figura.
 
 A linguagem escolhida para o produto final foi C. O código do projeto pode ser visualizado neste GitHub.
 
-As informações da saída devem ser simples e de fácil entendimento, portanto, foi pensado em utilizar um display para mostrar a informação se o ar está bom ou não, além da quantidade de PM 2.5 no momento.
+As informações da saída devem ser simples e de fácil entendimento, portanto, pensou-se em utilizar um display para mostrar a informação acerca da qualidade do ar, além da quantidade de PM 2.5 no momento.
 
 
 
@@ -171,7 +173,7 @@ As informações da saída devem ser simples e de fácil entendimento, portanto,
 
 Nesta etapa foi pensado em como seria o case do produto. O sensor PPD42NS é desenvolvido para ambientes fechados, portanto, numa maneira de melhorar a precisão e evitar algumas interferências o produto deve ficar dentro de uma caixa com entrada e saída de ar, para circulação do mesmo. O produto idealizado deve ser de fácil transporte, portanto o case precisa ser leve. 
 
-Referente a lógica do algoritmo, foi decidido utilizar o FreeRTOS para facilitar no acréscimo de funções que o projeto pode ter em versões futuras. É necessário um GPIO de entrada, para leitura do sensor e 5 GPIOs para o display LCD. O GPIO de entrada deve suportar 5V de tensão. É necessário uma função para contar o tempo em milissegundos, visto o que foi comentado a cima sobre o funcionamento do sensor. Desta maneira a função HAL_GetTick() foi utilizada. Esta função retorna o tempo em milissegundos desde que o microcontrolador foi ligado, semelhante a função millis() do Arduino. Mais a frente será detalhado melhor como foi estruturado o código e sua lógica.
+Referente à lógica do algoritmo, foi decidido utilizar o FreeRTOS para facilitar no acréscimo de funções que o projeto pode ter em versões futuras. É necessário um GPIO de entrada, para leitura do sensor e 5 GPIOs para o display LCD. O GPIO de entrada deve suportar 5V de tensão. É necessário uma função para contar o tempo em milissegundos, visto o que foi comentado a cima sobre o funcionamento do sensor. Desta maneira a função HAL_GetTick() foi utilizada. Esta função retorna o tempo em milissegundos desde que o microcontrolador foi ligado, semelhante à função millis() do Arduino. Mais a frente será detalhado melhor como foi estruturado o código, e sua lógica.
 
 # Implementação
 
@@ -243,23 +245,23 @@ void vTask_main(void *pvParameters)
 
 
 
-O código pode ser dividido em 3 etapas. A primeira etapa é reconhecer que o pino está em nível lógico baixo e então, contar em milissegundos o tempo que ele permanece no mesmo estado. Desta maneira, quando o pino for igual a zero será armazenado numa variável o valor de retorno da função HAL_GetTick(). Em seguida, é feito um laço de repetição para coletar o ultimo valor de HAL_GetTick(), logo antes de alterar o nível lógico para alto. Desta maneira, com a diferença do valor inicial e final temos os tempo em milissegundos que o pulso ficou em zero. Semelhante a função pulseIn() do código do fabricante. Este processo é repetido por 60 segundos, tempo escolhido para amostragem. A fim de evitar valores absurdos devido a algum mal funcionamento, um teste de sanidade é feito. Caso a duração seja menor que zero, ou seja, negativo ou maior que 100 ms a variável duration é zerada.
+O código pode ser dividido em 3 etapas. A primeira etapa é reconhecer que o pino está em nível lógico baixo e então, contar em milissegundos o tempo que ele permanece no mesmo estado. Desta maneira, quando o pino for igual a zero será armazenado numa variável o valor de retorno da função HAL_GetTick(). Em seguida, é feito um laço de repetição para coletar o ultimo valor de HAL_GetTick(), logo antes de alterar o nível lógico para alto. Desta maneira, com a diferença do valor inicial e final temos o tempo em milissegundos que o pulso ficou em zero. Semelhante à função pulseIn() do código do fabricante. Este processo é repetido por 60 segundos, tempo escolhido para amostragem. A fim de evitar valores absurdos devido a algum mal funcionamento, um teste de sanidade é feito. Caso a duração seja menor que zero, ou seja, negativo ou maior que 100 ms, a variável duration é zerada.
 
-A segunda etapa é comparar se já se passaram 60 segundos, se sim, é coletado a duração total do pulso em nível lógico baixo dividido pelo tempo da amostra. Para utilização de variável do tipo inteiro de 32 bits foi multiplicado por 100 este valor, para maior precisão. Em seguida, é feito os cálculos através da equação fornecida pelo fabricante e realizado a conversão par ug/m^3.
+A segunda etapa é comparar se já se passaram 60 segundos, se sim, é coletado a duração total do pulso em nível lógico baixo dividido pelo tempo da amostra. Para utilização de variável do tipo inteiro de 32 bits foi multiplicado por 100 este valor, para maior precisão. Em seguida, são feitos os cálculos através da equação fornecida pelo fabricante e realizado a conversão para ug/m^3.
 
 A terceira etapa é mostrar as informações no display, zerar a variável lowpulse e obter o instante final para obtermos mais 60 segundos para uma nova amostragem.
 
 Para visualização dos resultados e debug na etapa de produção do código, foi utilizado a comunicação serial através de um printf(). Desta maneira, os resultados podem ser visualizados num terminal qualquer.
 
-Os primeiros testes foram feitos com o código do fabricante. Após validar que o sensor estava funcioando, foi testado com o código final. Para o teste foi deixado o sensor num quarto fechado, simulando um ambiente limpo e controlado, ou seja, sem movimentação do ar ou poluentes consideráveis no ar. Os resultados variavam de 0 a 15 ug/m^3. O que classifica o ar como bom, segundo a tabela mostrada na introdução.  Em seguida, foi queimado papel e plástico próximo a entrada de ar do sensor. Os resultados obtidos foram entre 50 e 150 ug/m^3. Validando desta maneira o funcionamento do código e do produto.
+Os primeiros testes foram feitos com o código do fabricante. Após validar que o sensor estava funcionando, foi testado com o código final. Para o teste foi deixado o sensor num quarto fechado, simulando um ambiente limpo e controlado, ou seja, sem movimentação do ar ou poluentes consideráveis no ar. Os resultados variavam de 0 a 15 ug/m^3, o que classifica o ar como bom segundo a tabela mostrada na introdução.  Em seguida, foi queimado papel e plástico próximo a entrada de ar do sensor. Os resultados obtidos foram entre 50 e 150 ug/m^3 validando então o funcionamento do código e do produto.
 
-A média anual de PM 2.5 em São Paulo, capital, foi de 17,3 em 2016. A cidade de Florianópolis por ser uma cidade litorânea tende a ser menos poluída. Desta maneira, podemos visualizar que o resultado obtido esta dentro dos padrões. (https://www.redesocialdecidades.org.br/br/SP/sao-paulo/concentracoes-de-pm2-5)
+A média anual de PM 2.5 em São Paulo, capital, foi de 17,3 em 2016. A cidade de Florianópolis por ser uma cidade litorânea tende a ser menos poluída. Desta maneira, podemos visualizar que o resultado obtido está dentro dos padrões. (https://www.redesocialdecidades.org.br/br/SP/sao-paulo/concentracoes-de-pm2-5)
 
 # Conclusão
 
 
 
-É necessário obter outros sensores para comparação de fato do resultado, pois Florianópolis não possui nenhuma unidade medidora do material particulado fino 2.5. Outros testes mais rigorosos podem ser realizados, como por exemplo inserir o sensor num saco a vácuo para eliminar completamente qualquer poeira do ar. A utilização de um microcontrolador com ponto flutuante de alta precisão se faz necessário para realização dos cálculos e conversões.   
+É necessário obter outros sensores para comparação de fato do resultado, pois Florianópolis não possui nenhuma unidade medidora do material particulado fino 2.5. Outros testes mais rigorosos podem ser realizados, como por exemplo inserir o sensor num saco a vácuo para eliminar completamente qualquer poeira do ar. A utilização de um microcontrolador com ponto flutuante de alta precisão se faz necessário para realização dos cálculos e conversões de forma precisa.   
 
 Para versões futuras é necessário fazer a conexão do dispositivo com a internet (IoT) para disponibilizar os dados de forma online, desta maneira, tornando acessível a todos. 
 
