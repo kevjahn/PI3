@@ -25,7 +25,7 @@ Este material particulado fino é produzido a partir de diversas fontes, como ca
 
 No Brasil, em algumas cidades já está sendo monitorado o nível de PM 2.5, porem o valor é convertido para AQL, diferenciando-se de outros medidores ao redor do mundo. A medição pode ser acompanhada nesse site: http://aqicn.org/map/brazil/ . Pode-se observar na imagem abaixo que a maior concentração está em grandes cidades. Nesse site, é possível visualizar os medidores pelo mundo: http://berkeleyearth.org/air-quality-real-time-map/ .
 
-![1575762132530](C:\Users\User\Desktop\Engenharia\semestre 2019 2\PI 3\PI3\1575762132530.png)
+![1575762132530.png](https://github.com/kevjahn/PI3/blob/master/1575762132530.png?raw=true)
 
 **Figura 1**
 
