@@ -31,7 +31,7 @@ No Brasil, em algumas cidades já está sendo monitorado o nível de PM 2.5, por
 
 Neste projeto foi utilizado a tabela abaixo para categorizar a qualidade do ar em bom ou danoso.
 
-![1571920268445](C:\Users\User\Desktop\Engenharia\semestre 2019 2\PI 3\PI3\1571920268445.png)
+![1571920268445.png](https://github.com/kevjahn/PI3/blob/master/1571920268445.png?raw=true)
 
 ​									**Figura 2**
 
@@ -141,7 +141,7 @@ Algumas ações podem ser feitas para melhorar a precisão do sensor, como vedar
 
 O local da fita a ser colocada para vedar o buraco e melhorar a precisão pode ser observado abaixo:
 
-![](C:\Users\User\Desktop\Engenharia\semestre 2019 2\PI 3\PI3\1575751026018.png)
+![1575751026018.png](https://github.com/kevjahn/PI3/blob/master/1575751026018.png?raw=true)
 
 ​																			**Figura 6**
 
@@ -149,13 +149,13 @@ O sensor possui um resistor de 1 W internamente que aquece as partículas, agita
 
 Abaixo há uma imagem do sensor por dentro.
 
-![](C:\Users\User\Desktop\Engenharia\semestre 2019 2\PI 3\PI3\httpsstatics3.seeedstudio.comseeedimg2016-11uurjzjuilzanpukibjpvbl23.jpg)
+![httpsstatics3.seeedstudio.comseeedimg2016-11uurjzjuilzanpukibjpvbl23.jpg](https://github.com/kevjahn/PI3/blob/master/httpsstatics3.seeedstudio.comseeedimg2016-11uurjzjuilzanpukibjpvbl23.jpg?raw=true)
 
 ​									**Figura 7**
 
 O circuito elétrico do sensor pode ser observado na próxima figura.
 
-![](C:\Users\User\Desktop\Engenharia\semestre 2019 2\PI 3\PI3\1575751486623.png)
+![1575751486623.png](https://github.com/kevjahn/PI3/blob/master/1575751486623.png?raw=true)
 
  
 
