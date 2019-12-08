@@ -23,7 +23,7 @@ Este material particulado fino é produzido de diversas fontes, como carros, cam
 
 No Brasil, em algumas cidades já esta sendo monitor o nível de PM 2.5, porem o valor é convertido para AQL diferenciando-se de outros medidores ao redor do mundo. A medição pode ser acompanhada neste site: http://aqicn.org/map/brazil/ . Pode se observar na imagem abaixo que a maior concentração esta em grandes cidades. Neste site, é possível visualizar os medidores pelo mundo: http://berkeleyearth.org/air-quality-real-time-map/ .
 
-![1575762132530](C:\Users\User\AppData\Roaming\Typora\typora-user-images\1575762132530.png)
+![](C:\Users\User\Desktop\Engenharia\semestre 2019 2\PI 3\PI3\1575762132530.png)
 
 **Figura 1**
 
@@ -31,7 +31,7 @@ Neste projeto foi utilizado a tabela abaixo para categorizar a qualidade do ar e
 
 
 
-![1571920268445](C:\Users\User\AppData\Roaming\Typora\typora-user-images\1571920268445.png)
+![](C:\Users\User\Desktop\Engenharia\semestre 2019 2\PI 3\PI3\1571920268445.png)
 
 ​									**Figura 2**
 
@@ -141,7 +141,7 @@ Algumas ações podem ser feitas para melhorar a precisão do sensor, como vedar
 
 O local da fita a ser colocada para vedar o buraco e melhorar a precisão pode ser observado abaixo:
 
-![1575751026018](C:\Users\User\AppData\Roaming\Typora\typora-user-images\1575751026018.png)
+![](C:\Users\User\Desktop\Engenharia\semestre 2019 2\PI 3\PI3\1575751026018.png)
 
 ​																			**Figura 6**
 
@@ -149,13 +149,13 @@ O sensor possui um resistor de 1 W internamente que aquece as partículas, agita
 
 Abaixo há uma imagem do sensor por dentro.
 
-![Resultado de imagem para ppd42ns](https://aqicn.org/air/images/sensors/Shinyei-PPD42NS-inside.jpg)
+![](C:\Users\User\Desktop\Engenharia\semestre 2019 2\PI 3\PI3\Shinyei-PPD42NS-inside.jpg)
 
 ​									**Figura 7**
 
 O circuito elétrico do sensor pode ser observado na próxima figura.
 
-![1575751486623](C:\Users\User\AppData\Roaming\Typora\typora-user-images\1575751486623.png)
+![](C:\Users\User\Desktop\Engenharia\semestre 2019 2\PI 3\PI3\1575751486623.png)
 
  
 
