@@ -15,21 +15,19 @@ Professores:
 
 
 
-De acordo com o Departamento de Saúde dos Estados Unidos, material particulado fino (PM 2.5) é um poluente do ar que afeta a saúde das pessoas quando os níveis estão altos. PM2.5 são pequenas partículas no ar que reduzem a visibilidade e fazem com que o ar pareça nebuloso quando os níveis são elevados. Segundo o Departamento de Saúde de Nova York, os níveis externos de PM 2.5 são elevados em dias com pouca ou nenhuma mistura de vento ou ar. Em algumas cidades pelo mundo um aviso é emitido a população quando os níveis da partícula estão elevados.
+De acordo com o Departamento de Saúde dos Estados Unidos, material particulado fino 2.5 (PM 2.5) é um poluente do ar que afeta a saúde das pessoas quando os níveis estão altos. PM2.5 são pequenas partículas no ar que reduzem a visibilidade e fazem com que o ar pareça nebuloso quando os níveis são elevados. Segundo o Departamento de Saúde de Nova York, os níveis externos de PM 2.5 são elevados em dias com pouca ou nenhuma mistura de vento ou ar. Em algumas cidades pelo mundo um aviso é emitido a população quando os níveis da partícula estão elevados para uso de mascara ou evitar longas saídas as ruas.
 
-O termo de partícula fina ou material particulado 2.5 se dá devido ao fato de elas possuírem tamanho igual ou inferior a 2,5 micrometros de tamanho. O tamanho de uma partícula PM 2.5 é 30 vezes menor que um fio de cabelo humano. Desta maneira, devido ao seu pequeno tamanho elas são capazes de adentrar profundamente  nosso corpo, alcançando o pulmão. Além das diversas doenças respiratórias, a exposição prolongada a essa partícula pode causar doenças no coração. Alguns outros estudos estão sendo feitos relacionando PM 2.5 a demência e obesidade.
+O termo de partícula fina ou material particulado 2.5 se dá devido ao fato de elas possuírem tamanho igual ou inferior a 2,5 micrometros de tamanho. O tamanho de uma partícula PM 2.5 é 30 vezes menor que um fio de cabelo humano. Desta maneira, devido ao seu pequeno tamanho elas são capazes de adentrar profundamente no nosso corpo, alcançando o pulmão. Além das diversas doenças respiratórias, a exposição prolongada a essa partícula pode causar doenças no coração. Alguns outros estudos estão sendo feitos relacionando PM 2.5 a demência e obesidade.
 
-Este material particulado fino é produzido de diversas fontes, como carros, caminhões, industrias, cozinhas, cigarro, entre outros. Nos Estados Unidos, a Agencia de Proteção Ambiental estabeleceu padrões para qualidade do ar em 1997, sendo atualizado em 2012. Foi estabelecido que até 35 microgramas por metro cubico de PM 2.5 num dia seria considerado saudável e apenas 12 ug/m^3 na média anual.
+Este material particulado fino é produzido de diversas fontes, como carros, caminhões, industrias, cozinhas, cigarros, entre outros. Nos Estados Unidos, a Agencia de Proteção Ambiental estabeleceu padrões para qualidade do ar em 1997, sendo atualizado em 2012. Foi estabelecido que até 35 microgramas por metro cubico de PM 2.5 num dia seria considerado saudável e apenas 12 ug/m^3 na média anual.
 
-No Brasil, em algumas cidades já esta sendo monitor o nível de PM 2.5, porem o valor é convertido para AQL diferenciando-se de outros medidores ao redor do mundo. A medição pode ser acompanhada neste site: http://aqicn.org/map/brazil/ . Pode se observar na imagem abaixo que a maior concentração esta em grandes cidades. Neste site, é possível visualizar os medidores pelo mundo: http://berkeleyearth.org/air-quality-real-time-map/ .
+No Brasil, em algumas cidades já esta sendo monitorado o nível de PM 2.5, porem o valor é convertido para AQL, diferenciando-se de outros medidores ao redor do mundo. A medição pode ser acompanhada neste site: http://aqicn.org/map/brazil/ . Pode se observar na imagem abaixo que a maior concentração esta em grandes cidades. Neste site, é possível visualizar os medidores pelo mundo: http://berkeleyearth.org/air-quality-real-time-map/ .
 
 ![](C:\Users\User\Desktop\Engenharia\semestre 2019 2\PI 3\PI3\1575762132530.png)
 
 **Figura 1**
 
 Neste projeto foi utilizado a tabela abaixo para categorizar a qualidade do ar em bom ou danoso.
-
-
 
 ![](C:\Users\User\Desktop\Engenharia\semestre 2019 2\PI 3\PI3\1571920268445.png)
 
@@ -149,7 +147,7 @@ O sensor possui um resistor de 1 W internamente que aquece as partículas, agita
 
 Abaixo há uma imagem do sensor por dentro.
 
-![](C:\Users\User\Desktop\Engenharia\semestre 2019 2\PI 3\PI3\Shinyei-PPD42NS-inside.jpg)
+![](C:\Users\User\Desktop\Engenharia\semestre 2019 2\PI 3\PI3\httpsstatics3.seeedstudio.comseeedimg2016-11uurjzjuilzanpukibjpvbl23.jpg)
 
 ​									**Figura 7**
 
