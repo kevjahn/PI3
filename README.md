@@ -269,7 +269,7 @@ A média anual de PM 2.5 em São Paulo, capital, foi de 17,3 em 2016. A cidade d
 
 Para versões futuras é necessário fazer a conexão do dispositivo com a internet (IoT) para disponibilizar os dados de forma online, desta maneira, tornando acessível a todos. Desta maneira, discussões a respeito da qualidade do ar podem ser levantadas e medidas tomadas para limitar os níveis de poluição, principalmente em locais industriais. Notou-se que apenas após exibição a população dos níveis de PM 2.5 no ar que ações para limitar os poluentes foram tomadas. Um exemplo seria na Índia, onde fogos de artifícios foram proibidos pois os níveis de PM 2.5 estavam muito elevados. 
 
- 
+ O sensor utilizado é para locais internos, desta forma, seria interessante obter um outro sensor para locais externos. Tendo a opção de dois produtos, um para visualização dos níveis em casas, escritórios e etc. E um externo para cidade. 
 
 
 
