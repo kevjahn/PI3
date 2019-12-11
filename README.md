@@ -35,6 +35,8 @@ Neste projeto foi utilizado a tabela abaixo para categorizar a qualidade do ar e
 
 ​									**Figura 2**
 
+Alguns estudos apontam que pessoas expostas a mais de 10ug/m^3 de PM 2.5, na média diária, possuem 36% de chance a mais de desenvolver câncer de pulmão.
+
 # Equipamentos
 
 * STM32F103T8
