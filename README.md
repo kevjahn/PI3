@@ -255,6 +255,8 @@ Para visualização dos resultados e debug na etapa de produção do código, fo
 
 Os primeiros testes foram feitos com o código do fabricante. Após validar que o sensor estava funcionando, foi testado com o código final. Para o teste foi deixado o sensor num quarto fechado, simulando um ambiente limpo e controlado, ou seja, sem movimentação do ar ou poluentes consideráveis no ar. Os resultados variavam de 0 a 15 ug/m^3, o que classifica o ar como bom segundo a tabela mostrada na introdução.  Em seguida, foi queimado papel e plástico próximo a entrada de ar do sensor. Os resultados obtidos foram entre 50 e 150 ug/m^3 validando então o funcionamento do código e do produto.
 
+Após a queima de plástico notou-se que o resultado elevado permaneceu por aproximadamente 15 minutos, demonstrando como a poluição de ar em um ambiente fechado demora a se dissipar e normalizar o ar.
+
 A média anual de PM 2.5 em São Paulo, capital, foi de 17,3 em 2016. A cidade de Florianópolis por ser uma cidade litorânea tende a ser menos poluída. Desta maneira, podemos visualizar que o resultado obtido está dentro dos padrões. (https://www.redesocialdecidades.org.br/br/SP/sao-paulo/concentracoes-de-pm2-5)
 
 # Conclusão
@@ -263,7 +265,7 @@ A média anual de PM 2.5 em São Paulo, capital, foi de 17,3 em 2016. A cidade d
 
 É necessário obter outros sensores para comparação de fato do resultado, pois Florianópolis não possui nenhuma unidade medidora do material particulado fino 2.5. Outros testes mais rigorosos podem ser realizados, como por exemplo inserir o sensor num saco a vácuo para eliminar completamente qualquer poeira do ar. A utilização de um microcontrolador com ponto flutuante de alta precisão se faz necessário para realização dos cálculos e conversões de forma precisa.   
 
-Para versões futuras é necessário fazer a conexão do dispositivo com a internet (IoT) para disponibilizar os dados de forma online, desta maneira, tornando acessível a todos. 
+Para versões futuras é necessário fazer a conexão do dispositivo com a internet (IoT) para disponibilizar os dados de forma online, desta maneira, tornando acessível a todos. Desta maneira, discussões a respeito da qualidade do ar podem ser levantadas e medidas tomadas para limitar os níveis de poluição, principalmente em locais industriais. Notou-se que apenas após exibição a população dos níveis de PM 2.5 no ar que ações para limitar os poluentes foram tomadas. Um exemplo seria na Índia, onde fogos de artifícios foram proibidos pois os níveis de PM 2.5 estavam muito elevados. 
 
  
 
