@@ -271,7 +271,7 @@ Para versões futuras é necessário fazer a conexão do dispositivo com a inter
 
  O sensor utilizado é para locais internos, desta forma, seria interessante obter um outro sensor para locais externos. Tendo a opção de dois produtos, um para visualização dos níveis em casas, escritórios e etc. E um externo para cidade. 
 
-
+Um aplicativo precisa ser desenvolvido para que os dados do produto com sensor para locais internos possam ser visualizados, pensando na privacidade da informação, no caso de industrias ou residências e na pluralidade dos sensores. 
 
 # Referência Bibliográfica 
 
